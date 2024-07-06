@@ -23,7 +23,7 @@ This project creates a fully functional RC hovercraft that glides over various s
 
 ## Materials
 
-- **1 main_body
+- **1 main_body**
 - **1 propeller_duct**
 - **1 rudder**
 - **1 outer_skirt_clamp**
