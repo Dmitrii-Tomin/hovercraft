@@ -1,6 +1,9 @@
 # 3D Printed RC Hovercraft
 
-![Hovercraft Image](path/to/hovercraft-image.jpg)
+![PXL_20240706_212930223 MP](https://github.com/Dmitrii-Tomin/hovercraft/assets/83939750/9b95c440-3dba-4b87-9749-60d340d6d755)
+
+![PXL_20240706_213228218 MP](https://github.com/Dmitrii-Tomin/hovercraft/assets/83939750/c892280a-f744-419e-8b61-7af889dbeeda)
+
 
 ## Table of Contents
 - [Overview](#overview)
