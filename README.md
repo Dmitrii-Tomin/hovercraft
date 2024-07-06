@@ -41,7 +41,7 @@ This project creates a fully functional RC hovercraft that glides over various s
 ## Instructions
 
 ### 3D Printing
-- Download STL files from the `hovercraft_files.zip` directory or from my [Printables](https://www.printables.com/model/934954-rc-hovercraft).
+- Download STL files from the `hovercraft_parts.zip` directory or from my [Printables](https://www.printables.com/model/934954-rc-hovercraft).
 - Print using PLA, ABS or any filament your choice with 0.2mm layer height, 20% infill, and supports.
 
 ### Assembly
