@@ -23,15 +23,32 @@ This project creates a fully functional RC hovercraft that glides over various s
 
 ## Materials
 
+- **1 main_body
+- **1 propeller_duct**
+- **1 rudder**
+- **1 outer_skirt_clamp**
+- **1 skid_plate**
+-  
+
+- **1 1407 bldc motor**
+- **1 30a 3s ESC: with xt60 connector (20a might work too)**
+- **1 9g servo motor: with screws and arms**
+- **1 1000-1100 mah 3s lipo**
+- **1 PWM receiver**
+- **28-66 M3 8mm screws**
+- optionally 3 male & 3 female 3mm bullet connectors
 
 ## Instructions
 
 ### 3D Printing
-- Download STL files from the `hovercraft_files.zip` directory.
+- Download STL files from the `hovercraft_files.zip` directory or from my [Printables](https://www.printables.com/model/934954-rc-hovercraft).
 - Print using PLA, ABS or any filament your choice with 0.2mm layer height, 20% infill, and supports.
 
 ### Assembly
 You can find the assebly guide at `hovercraft_assembly_guide.pdf`
+
+### Modify
+By downloading the `hovercraft_fusion.f3d` file you can modify the parts in Fusion360
 
 ### Usage
 - Perform a pre-"flight" check to secure connections and balance.
