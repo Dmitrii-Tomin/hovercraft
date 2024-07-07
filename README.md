@@ -4,6 +4,7 @@
 
 ![PXL_20240706_213228218 MP](https://github.com/Dmitrii-Tomin/hovercraft/assets/83939750/c892280a-f744-419e-8b61-7af889dbeeda)
 
+Video: https://youtube.com/shorts/TjXSqPI95Ig
 
 ## Table of Contents
 - [Overview](#overview)
