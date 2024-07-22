@@ -36,6 +36,7 @@ This project creates a fully functional RC hovercraft that glides over various s
 - **1 9g servo motor: with screws and arms**
 - **1 1000-1100 mah 3s lipo**
 - **1 PWM receiver**
+- **1 trash bag:** thick or double layer
 - **28-66 M3 8mm screws**
 - optionally 3 male & 3 female 3mm bullet connectors
 
