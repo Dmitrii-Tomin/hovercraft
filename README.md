@@ -14,7 +14,7 @@ Video: https://youtube.com/shorts/TjXSqPI95Ig
 - [Contributing](#contributing)
 
 ## Overview
-This project creates a fully functional RC hovercraft that glides over various surfaces, powered by electric motors and controlled via a standard RC transmitter.
+This project creates a **fully functional RC hovercraft** that **glides over various surfaces**, powered by electric motors and **controlled via a standard RC transmitter**.
 
 ## Features
 - Modular design for easy assembly
